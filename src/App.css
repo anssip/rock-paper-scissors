@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto Mono', Courier, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: #4b4b4b;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.app {
+  width: 100%;
+  margin: 3em;
+}
