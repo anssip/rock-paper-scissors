@@ -29,6 +29,7 @@
     "babel-loader": "^8.1.0",
     "babel-plugin-react-css-modules": "^5.2.6",
     "css-loader": "^3.6.0",
+    "file-loader": "^6.0.0",
     "react-hot-loader": "^4.12.21",
     "style-loader": "^1.2.1",
     "webpack": "^4.43.0",
