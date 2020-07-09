@@ -1,0 +1,18 @@
+.root {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 1px #ccc solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.selected {
+  border: 3px royalblue solid;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+}
